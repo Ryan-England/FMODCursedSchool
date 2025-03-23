@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b41fb66f-a569-443a-ac4b-0177f20e51aa}">
+		<property name="assetPath">
+			<value>144982__timbre__smek-me-oich.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.6645578231292522</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8d169f52-053f-4a60-bd6a-230384c1faf0}</destination>
+		</relationship>
+	</object>
+</objects>

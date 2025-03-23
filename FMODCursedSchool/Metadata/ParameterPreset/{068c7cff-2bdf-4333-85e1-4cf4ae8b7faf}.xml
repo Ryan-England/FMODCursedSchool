@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{068c7cff-2bdf-4333-85e1-4cf4ae8b7faf}">
+		<property name="name">
+			<value>Intensity</value>
+		</property>
+		<relationship name="folder">
+			<destination>{dedd70c7-fecd-4bc3-9359-338a6bf6a7db}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8a53dcf9-0c2c-42d3-9e9a-4453c5a32d3b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8a53dcf9-0c2c-42d3-9e9a-4453c5a32d3b}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

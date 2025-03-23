@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{29088e37-0cb4-40d0-9bbc-37beff363b4f}">
+		<property name="assetPath">
+			<value>240789__f4ngy__papers-rustling.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.9706122448979593</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8d169f52-053f-4a60-bd6a-230384c1faf0}</destination>
+		</relationship>
+	</object>
+</objects>

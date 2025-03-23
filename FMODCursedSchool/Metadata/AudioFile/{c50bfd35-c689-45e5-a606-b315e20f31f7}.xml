@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c50bfd35-c689-45e5-a606-b315e20f31f7}">
+		<property name="assetPath">
+			<value>looperman-l-2273068-0391009-sza-x-rnb-type-guitar.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>32</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8d169f52-053f-4a60-bd6a-230384c1faf0}</destination>
+		</relationship>
+	</object>
+</objects>

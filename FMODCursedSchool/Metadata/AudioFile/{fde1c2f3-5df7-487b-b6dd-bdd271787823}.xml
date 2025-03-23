@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{fde1c2f3-5df7-487b-b6dd-bdd271787823}">
+		<property name="assetPath">
+			<value>looperman-l-2273068-0391119-lil-tecca-x-pop-type-synth.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8d169f52-053f-4a60-bd6a-230384c1faf0}</destination>
+		</relationship>
+	</object>
+</objects>

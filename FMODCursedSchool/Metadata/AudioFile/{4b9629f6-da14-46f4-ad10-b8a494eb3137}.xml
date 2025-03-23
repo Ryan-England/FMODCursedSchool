@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4b9629f6-da14-46f4-ad10-b8a494eb3137}">
+		<property name="assetPath">
+			<value>516854__robinhood76__08687-shine-magic-stinger.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.5814965986394558</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8d169f52-053f-4a60-bd6a-230384c1faf0}</destination>
+		</relationship>
+	</object>
+</objects>
